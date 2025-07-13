@@ -1,0 +1,21 @@
+# === Required Python Libraries ===
+
+# Selenium is used for browser automation to control Chrome,
+# interact with web elements (like typing, clicking), and automate form submission
+selenium==4.10.0
+
+# Faker is used to generate realistic fake user data such as
+# first names, last names, usernames, passwords, and dates of birth
+faker==19.6.2
+
+# === Optional but Recommended ===
+
+# fake-useragent can help randomize browser headers (user agents)
+# to reduce bot detection risk while scraping or automating (optional in this project)
+# fake-useragent==1.5.0
+
+# You may also need to install ChromeDriver separately to match your browser version.
+# Instructions: https://sites.google.com/chromium.org/driver/
+
+# Run this in your terminal to install all dependencies:
+# pip install -r requirements.txt

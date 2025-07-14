@@ -1,3 +1,5 @@
+# user_data_generator: 👉 Module to generate fake user info
+
 from faker import Faker
 import random
 

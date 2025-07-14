@@ -1,3 +1,5 @@
+# main.py --- 👉 Entry point for execution
+                         
 from user_data_generator import generate_user_data
 from form_filler import automate_gmail_signup
 from validation import validate_response

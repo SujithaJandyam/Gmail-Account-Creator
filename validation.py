@@ -1,3 +1,5 @@
+#validation.py:👉 Handle errors & validations
+
 def validate_response(result):
     if "submitted" in result:
         print("✅ Form submitted successfully (until manual verification point).")
